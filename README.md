@@ -39,6 +39,6 @@ This project does not have any commercial purpose or benefit, this project was d
 I took up the development of the project to learn new things, to learn what I did not know before. And as I wrote above, this project is not commercial and is made within the framework of training
 
 ## Contacts
-Оставьте пользователям контакты и инструкции, как связаться с командой разработки.
+Below is the contact information for contacting me with any issues, suggestions or questions about this published repository.
 
 - [Yaroslav Selivanov](https://t.me/helloyaroslav) — Frontend developer
